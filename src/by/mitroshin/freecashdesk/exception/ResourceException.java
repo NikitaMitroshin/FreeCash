@@ -1,4 +1,4 @@
-package exception;
+package by.mitroshin.freecashdesk.exception;
 
 /**
  * Created by Nikita Mitroshin on 18.06.2015.
